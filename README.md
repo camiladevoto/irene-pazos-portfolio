@@ -1,11 +1,11 @@
 # Irene Pazos Viana · Portfolio
 
-Open `index.html` in a browser. The site is a single static file with a Spanish default and an English switch. Use `?lang=en` to link directly to English.
+Open `index.html` in a browser. The site is a static site with a Spanish default and an English switch. Use `?lang=en` to link directly to English.
 
 ## GitHub Pages
 
 1. Create a new repository under Irene’s account, or create a separate repository under Camila’s account and transfer it when Irene has reviewed the site.
-2. Add `index.html` to the root of the default branch.
+2. Add the repository files to the root of the default branch.
 3. In **Settings → Pages**, select **Deploy from a branch**, choose the default branch and **/ (root)**, and save.
 4. Open the URL shown in Pages settings and test the language switch and LinkedIn link.
 
